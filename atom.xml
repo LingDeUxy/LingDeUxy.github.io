@@ -3,11 +3,11 @@
   <title>Ushioiu`Blog</title>
   
   <subtitle>Welc Ushio</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://lingdeuxy.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://lingdeuxy.github.io/"/>
   <updated>2022-09-16T11:11:51.559Z</updated>
-  <id>http://example.com/</id>
+  <id>https://lingdeuxy.github.io/</id>
   
   <author>
     <name>Ushioiu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://lingdeuxy.github.io/posts/4a17b156.html"/>
+    <id>https://lingdeuxy.github.io/posts/4a17b156.html</id>
     <published>2022-09-16T10:00:00.006Z</published>
     <updated>2022-09-16T11:11:51.559Z</updated>
     
